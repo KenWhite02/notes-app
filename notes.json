@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Programming Languages",
+    "body": "Javascript, Ruby, Python, Rust, Kotlin, Java, Go, Typescript, Swift, C#, C++"
+  },
+  {
+    "title": "Phone Models",
+    "body": "Huawei, Samsung, Sony, Redmi, Iphone, Asus, Oneplus"
+  },
+  {
+    "title": "Countries",
+    "body": "Kenya, United Kingdom, China, Australia, Denmark, Netherlands, Germany, Italy"
+  },
+  {
+    "title": "Artists",
+    "body": "NF, Chrisbrown, Gremlin, Celine Dion, Calum Scott"
+  },
+  {
+    "title": "Cars",
+    "body": "BMW, Mercedes, Porsche, Ferrari, Lamborghini, Audi, Bugatti, Dodge"
+  }
+]
